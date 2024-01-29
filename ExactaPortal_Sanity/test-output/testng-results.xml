@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-22T15:30:45 IST" name="Default suite" finished-at="2023-11-22T15:32:32 IST" duration-ms="107329">
+    <groups>
+    </groups>
+    <test started-at="2023-11-22T15:30:45 IST" name="Default test" finished-at="2023-11-22T15:32:32 IST" duration-ms="107329">
+      <class name="testcases.Verify_CycleCountOrder_Imported_Successfully">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Verify_CycleCountOrder_Imported_Successfully@55de24cc]" started-at="2023-11-22T15:30:45 IST" name="setUp" finished-at="2023-11-22T15:30:52 IST" duration-ms="7233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CycleCountOrder_import()[pri:0, instance:testcases.Verify_CycleCountOrder_Imported_Successfully@55de24cc]" started-at="2023-11-22T15:30:52 IST" name="CycleCountOrder_import" finished-at="2023-11-22T15:31:17 IST" duration-ms="24078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CycleCountOrder_import -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Verify_CycleCountOrder_Imported_Successfully@55de24cc]" started-at="2023-11-22T15:31:17 IST" name="tearDown" finished-at="2023-11-22T15:31:17 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Verify_CycleCountOrder_Imported_Successfully@55de24cc]" started-at="2023-11-22T15:31:17 IST" name="setUp" finished-at="2023-11-22T15:31:21 IST" duration-ms="4755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Verify_CycleCountOrder_Import_In_Interface_Import_Transactions()[pri:1, instance:testcases.Verify_CycleCountOrder_Imported_Successfully@55de24cc]" started-at="2023-11-22T15:31:21 IST" name="Verify_CycleCountOrder_Import_In_Interface_Import_Transactions" finished-at="2023-11-22T15:32:01 IST" duration-ms="39602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_CycleCountOrder_Import_In_Interface_Import_Transactions -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Verify_CycleCountOrder_Imported_Successfully@55de24cc]" started-at="2023-11-22T15:32:01 IST" name="tearDown" finished-at="2023-11-22T15:32:01 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Verify_CycleCountOrder_Imported_Successfully@55de24cc]" started-at="2023-11-22T15:32:01 IST" name="setUp" finished-at="2023-11-22T15:32:05 IST" duration-ms="4179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Verify_CycleCountOrder_In_View_All_CycleCountOrders()[pri:2, instance:testcases.Verify_CycleCountOrder_Imported_Successfully@55de24cc]" started-at="2023-11-22T15:32:05 IST" name="Verify_CycleCountOrder_In_View_All_CycleCountOrders" finished-at="2023-11-22T15:32:32 IST" duration-ms="27113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_CycleCountOrder_In_View_All_CycleCountOrders -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Verify_CycleCountOrder_Imported_Successfully@55de24cc]" started-at="2023-11-22T15:32:32 IST" name="tearDown" finished-at="2023-11-22T15:32:32 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.Verify_CycleCountOrder_Imported_Successfully -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

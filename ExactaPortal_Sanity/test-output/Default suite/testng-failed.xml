@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testcases.Verify_PickOrder_Imported_Successfully">
+        <methods>
+          <include name="Verify_PickOrder_Import_In_View_All_PickOrders"/>
+          <include name="pickorder_import"/>
+          <include name="tearDown"/>
+          <include name="Verify_Pick_Import_In_Interface_Import_Transactions"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.Verify_PickOrder_Imported_Successfully -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
