@@ -120,9 +120,9 @@ public class Utilities {
         NavigateToInventoryMaintenance.click();
     }
 
-    public void clickViewAllPutAwayOrders() {
-        NavigateViewAllPutAwayOrders.click();
-    }
+  //  public void clickViewAllPutAwayOrders() {
+     //   NavigateViewAllPutAwayOrders.click();
+  //  }
     
     public void clickViewAllPickOrders() {
     	NavigateViewAllPickOrders.click();
