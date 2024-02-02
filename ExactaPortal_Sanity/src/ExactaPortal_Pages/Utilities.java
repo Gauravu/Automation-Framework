@@ -85,10 +85,10 @@ public class Utilities {
         driver.findElement(By.cssSelector("div.icon-close[title='Close']"));
     }
 
-    /* public void VerifyIntefaceImportTransactionsText() {
+     public void VerifyIntefaceImportTransactionsText() {
          String actualStr = ImportTransactionsText.getText();
          Assert.assertEquals(actualStr, "Import Transactions");
-     }*/
+     }
     public void clickRollbuttonSymbol() {
         clickRollbutton.click();
     }
@@ -120,9 +120,9 @@ public class Utilities {
         NavigateToInventoryMaintenance.click();
     }
 
-    public void clickViewAllPutAwayOrders() {
-        NavigateViewAllPutAwayOrders.click();
-    }
+  //  public void clickViewAllPutAwayOrders() {
+     //   NavigateViewAllPutAwayOrders.click();
+  //  }
     
     public void clickViewAllPickOrders() {
     	NavigateViewAllPickOrders.click();
