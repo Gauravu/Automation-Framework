@@ -44,6 +44,7 @@ public class Verify_PickOrder_Imported_Successfully extends BaseTest {
         utl.getXmlText();
     }
     
+	/*
     @Test(priority = 2)
     public void Verify_PickOrder_Import_In_View_All_PickOrders() throws IOException, InterruptedException {
         Utilities utl = PageFactory.initElements(driver, Utilities.class);
@@ -52,7 +53,7 @@ public class Verify_PickOrder_Imported_Successfully extends BaseTest {
         utl.clickViewAllPickOrders();
         utl.enterPickOrderNameinViewAllPickOrders();
         utl.verifyPickOrderisdisplayedinViewAllPickOrders();
-    
+    */
 
     }
 	

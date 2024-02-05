@@ -282,7 +282,7 @@ public void testCycleCountImport () throws InterruptedException, IOException {
 	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3600));
 	driver.findElement(By.linkText("Cycle Count Import")).click();
 	WebElement chooseFile2 = driver.findElement(By.xpath("//input[@type=\"file\"]"));
-    File file = new File("C:\\Users\\gudayashankar\\Desktop\\Selenium\\CC-40.csv");
+    File file = new File("C:\\Selenium\\Excel\\TestData.csv");
     System.out.println(file.getAbsolutePath());
     
     
